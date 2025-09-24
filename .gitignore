@@ -24,3 +24,4 @@ venv/
 *.pt
 *.onnx
 node_modules/
+Codes/datasets/housing.tgz

@@ -26,3 +26,4 @@ venv/
 node_modules/
 Codes/datasets/housing.tgz
 Codes/iris_tree.dot
+Codes/my_mnist.mmap

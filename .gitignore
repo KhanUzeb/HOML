@@ -40,3 +40,4 @@ Codes/datasets/FashionMNIST/raw/train-images-idx3-ubyte.gz
 Codes/datasets/FashionMNIST/raw/train-labels-idx1-ubyte
 Codes/datasets/FashionMNIST/raw/train-labels-idx1-ubyte.gz
 .vscode
+flowers-102

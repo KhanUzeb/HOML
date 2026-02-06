@@ -47,3 +47,5 @@ Codes/my_annotated_traffic.jpg
 Codes/datasets/images/soccer.jpg
 my_imdb_model/
 my_bert/
+my_gpt2_sft_alpaca/
+my_gpt2_sft_alpaca_dpo_hh_rlhf/

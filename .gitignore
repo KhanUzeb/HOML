@@ -49,3 +49,5 @@ my_imdb_model/
 my_bert/
 my_gpt2_sft_alpaca/
 my_gpt2_sft_alpaca_dpo_hh_rlhf/
+my_pets_vit/
+my_pets_deit/
